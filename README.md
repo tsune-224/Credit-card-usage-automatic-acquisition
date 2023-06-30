@@ -1,4 +1,4 @@
-# gas-and-notion-api
+# Credit card usage automatic acquisition
 This is gas project with notion api.   
 if you want use this , you should meet the following conditions.
 
